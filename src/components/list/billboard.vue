@@ -31,7 +31,7 @@
             <span>{{ item.rating.average }}分</span>
           </div>
           <div class="more">
-            <span><a target="_blank" :href="item.alt">详情</a></span>
+            <span><a target="_blank" :href="item.alt">详 情</a></span>
           </div>
         </div>
       </div>
